@@ -1,8 +1,4 @@
 # HVAC with Raspberry Pi
-## Project website
-
-Check out my [website](https://marcelclaramunt.cat/portfolio/hvac-with-raspberry-pi/), where I blog about the developement of the project
-
 ## Abstract
 
 This project consists in implementing a Raspberry Pi as a microcontroller for the heating and air-conditioning system of our apartment. All of the machinery is already set up: boiler, fan coil, radiators and motorized shutter-vents, which are as of now controlled by an Arduino.
